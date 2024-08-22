@@ -1,0 +1,110 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EntityRecordingReservation", "EntityRecordingReservation\EntityRecordingReservation.vbproj", "{5881168C-A7DD-44BB-9262-E3A6693F1DC4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RecordingReservationManagerInterface", "RecordingReservationManagerInterface\RecordingReservationManagerInterface.vbproj", "{890B1273-2C4B-499E-8FBF-73224A280706}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SchemaRecordingReservation", "SchemaRecordingReservation\SchemaRecordingReservation.vbproj", "{89D372E7-1D2A-49FE-B5FE-5F52DD0B3D9D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SettingRecordingReservation", "SettingRecordingReservation\SettingRecordingReservation.vbproj", "{69D8AD09-D3A2-411B-A79D-4E743BAB9B61}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ChannelProxy", "ChannelProxy\ChannelProxy.vbproj", "{AAA5EC66-126D-4D0D-BE5D-F7730E4163E1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Controls", "Controls\Controls.vbproj", "{E2CA3492-863A-448E-8C98-BB264AFD2C18}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SavePathConfiguration", "SavePathConfiguration\SavePathConfiguration.vbproj", "{82ECFB28-9197-46DC-87C8-9F7618393F3D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RecordingReservationManagerClient", "RecordingReservationManagerClient\RecordingReservationManagerClient.vbproj", "{62384D67-5BE7-48A3-8972-4ABD3819E387}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SettingRecordingReservationClient", "SettingRecordingReservationClient\SettingRecordingReservationClient.vbproj", "{4799000E-2F9C-4FF9-8692-240B27722BD3}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RecordingReservationManagerServer", "RecordingReservationManagerServer\RecordingReservationManagerServer.vbproj", "{C75624C6-E671-45D4-9FB1-E22B4BC58E10}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ryoji-storage.kawamura.local:8089/tfs/kawamura
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ChannelProxy\\ChannelProxy.vbproj
+		SccProjectName1 = ChannelProxy
+		SccLocalPath1 = ChannelProxy
+		SccProjectUniqueName2 = Controls\\Controls.vbproj
+		SccProjectName2 = Controls
+		SccLocalPath2 = Controls
+		SccProjectUniqueName3 = EntityRecordingReservation\\EntityRecordingReservation.vbproj
+		SccProjectName3 = EntityRecordingReservation
+		SccLocalPath3 = EntityRecordingReservation
+		SccProjectUniqueName4 = RecordingReservationManagerClient\\RecordingReservationManagerClient.vbproj
+		SccProjectName4 = RecordingReservationManagerClient
+		SccLocalPath4 = RecordingReservationManagerClient
+		SccProjectUniqueName5 = RecordingReservationManagerInterface\\RecordingReservationManagerInterface.vbproj
+		SccProjectName5 = RecordingReservationManagerInterface
+		SccLocalPath5 = RecordingReservationManagerInterface
+		SccProjectUniqueName6 = RecordingReservationManagerServer\\RecordingReservationManagerServer.vbproj
+		SccProjectName6 = RecordingReservationManagerServer
+		SccLocalPath6 = RecordingReservationManagerServer
+		SccProjectUniqueName7 = SavePathConfiguration\\SavePathConfiguration.vbproj
+		SccProjectName7 = SavePathConfiguration
+		SccLocalPath7 = SavePathConfiguration
+		SccProjectUniqueName8 = SchemaRecordingReservation\\SchemaRecordingReservation.vbproj
+		SccProjectName8 = SchemaRecordingReservation
+		SccLocalPath8 = SchemaRecordingReservation
+		SccProjectUniqueName9 = SettingRecordingReservation\\SettingRecordingReservation.vbproj
+		SccProjectName9 = SettingRecordingReservation
+		SccLocalPath9 = SettingRecordingReservation
+		SccProjectUniqueName10 = SettingRecordingReservationClient\\SettingRecordingReservationClient.vbproj
+		SccProjectName10 = SettingRecordingReservationClient
+		SccLocalPath10 = SettingRecordingReservationClient
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5881168C-A7DD-44BB-9262-E3A6693F1DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5881168C-A7DD-44BB-9262-E3A6693F1DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5881168C-A7DD-44BB-9262-E3A6693F1DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5881168C-A7DD-44BB-9262-E3A6693F1DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890B1273-2C4B-499E-8FBF-73224A280706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890B1273-2C4B-499E-8FBF-73224A280706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890B1273-2C4B-499E-8FBF-73224A280706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890B1273-2C4B-499E-8FBF-73224A280706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D372E7-1D2A-49FE-B5FE-5F52DD0B3D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D372E7-1D2A-49FE-B5FE-5F52DD0B3D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D372E7-1D2A-49FE-B5FE-5F52DD0B3D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D372E7-1D2A-49FE-B5FE-5F52DD0B3D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D8AD09-D3A2-411B-A79D-4E743BAB9B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D8AD09-D3A2-411B-A79D-4E743BAB9B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D8AD09-D3A2-411B-A79D-4E743BAB9B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D8AD09-D3A2-411B-A79D-4E743BAB9B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA5EC66-126D-4D0D-BE5D-F7730E4163E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA5EC66-126D-4D0D-BE5D-F7730E4163E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA5EC66-126D-4D0D-BE5D-F7730E4163E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA5EC66-126D-4D0D-BE5D-F7730E4163E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CA3492-863A-448E-8C98-BB264AFD2C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CA3492-863A-448E-8C98-BB264AFD2C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CA3492-863A-448E-8C98-BB264AFD2C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CA3492-863A-448E-8C98-BB264AFD2C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82ECFB28-9197-46DC-87C8-9F7618393F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82ECFB28-9197-46DC-87C8-9F7618393F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82ECFB28-9197-46DC-87C8-9F7618393F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82ECFB28-9197-46DC-87C8-9F7618393F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62384D67-5BE7-48A3-8972-4ABD3819E387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62384D67-5BE7-48A3-8972-4ABD3819E387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62384D67-5BE7-48A3-8972-4ABD3819E387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62384D67-5BE7-48A3-8972-4ABD3819E387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4799000E-2F9C-4FF9-8692-240B27722BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4799000E-2F9C-4FF9-8692-240B27722BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4799000E-2F9C-4FF9-8692-240B27722BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4799000E-2F9C-4FF9-8692-240B27722BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75624C6-E671-45D4-9FB1-E22B4BC58E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75624C6-E671-45D4-9FB1-E22B4BC58E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75624C6-E671-45D4-9FB1-E22B4BC58E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75624C6-E671-45D4-9FB1-E22B4BC58E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
